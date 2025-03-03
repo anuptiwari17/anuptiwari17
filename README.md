@@ -1,4 +1,4 @@
-### Hey there, I'm Anup Tiwari! 👋🚀
+### 👋 Hey there, fellow tech enthusiast! Welcome to my digital space!
 
 ```js
 const anup = {
@@ -19,7 +19,7 @@ const anup = {
 
 ### 🌟 About Me
 
-Hey there! I'm **Anup**, a passionate **Full Stack Web Developer in the making**! Currently, I'm on an exciting journey to master **backend development** with **Express.js and MongoDB**. I thrive on challenges and love turning ideas into reality. 
+Hey there! I'm **Anup**, a passionate **Developer in the making**! Currently, I'm on an exciting journey to master **backend development** with **Express.js and MongoDB**. I thrive on challenges and love turning ideas into reality. 
 
 🔥 **Building projects that solve real-world problems**  
 📚 **First-year college student, always hungry to learn!**  
@@ -27,12 +27,19 @@ Hey there! I'm **Anup**, a passionate **Full Stack Web Developer in the making**
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Technologies
 
-🖥 **Languages:** JavaScript, Python  
-🚀 **Backend:** Node.js, Express.js, MongoDB  
-🎨 **Frontend:** HTML, CSS, JavaScript  
-☁️ **Database & Cloud:** Firestore, Firebase, Cloudinary  
+<p>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white"/>
+</p>
 
 ---
 
