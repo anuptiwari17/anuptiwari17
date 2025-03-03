@@ -3,7 +3,7 @@
 ```js
 const anup = {
     name: "Anup Tiwari",
-    title: "Aspiring Full Stack Web Developer 💻",
+    title: "Aspiring Developer 💻",
     currently_learning: ["Backend Development", "Express.js", "MongoDB"],
     college: "First-Year Student 📚",
     passions: ["🚀 Coding", "🔨 Building Cool Projects", "🔍 Exploring Tech"],
