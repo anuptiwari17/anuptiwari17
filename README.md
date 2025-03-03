@@ -19,7 +19,7 @@ const anup = {
 
 ### 🌟 About Me
 
-Hey there! I'm **Anup**, a passionate **Full Stack Web Developer in the making**! Currently, I'm on an exciting journey to master **backend development** with **Express.js and MongoDB**. I thrive on challenges and love turning ideas into reality. 
+Hey there! I'm **Anup**, a passionate **Developer in the making**! Currently, I'm on an exciting journey to master **backend development** with **Express.js and MongoDB**. I thrive on challenges and love turning ideas into reality. 
 
 🔥 **Building projects that solve real-world problems**  
 📚 **First-year college student, always hungry to learn!**  
