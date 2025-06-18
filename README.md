@@ -8,7 +8,7 @@ const anup = {
     college: "First-Year Student 📚",
     passions: ["🚀 Coding", "🔨 Building Cool Projects", "🔍 Exploring Tech"],
     contact: {
-        twitter: "https://x.com/offsidengineer",
+        twitter: "https://x.com/offsidetwt",
         email: "anuptiwari050@gmail.com",
         linkedin: "www.linkedin.com/in/-anuptiwari"
     }
