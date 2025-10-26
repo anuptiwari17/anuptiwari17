@@ -1,54 +1,123 @@
-### 👋 Hey there, fellow tech enthusiast! Welcome to my digital space!
+<div align="center">
 
-```js
-const anup = {
-    name: "Anup Tiwari",
-    title: "Aspiring Developer 💻",
-    currently_learning: ["Development"],
-    college: "First-Year Student 📚",
-    passions: ["🚀 Coding", "🔨 Building Cool Projects", "🔍 Exploring Tech"],
-    contact: {
-        twitter: "https://x.com/offsidetwt",
-        email: "anuptiwari050@gmail.com",
-        linkedin: "www.linkedin.com/in/-anuptiwari"
-    }
-};
-```
+# 👨‍💻 Anup Tiwari
 
----
-
-### 🌟 About Me
-
-Hey there! I'm **Anup**, a passionate **Developer in the making**! Currently, I'm on an exciting journey to master **developmentt**. I thrive on challenges and love turning ideas into reality.
-
-🔥 **Building projects that solve real-world problems**  
-📚 **First-year college student, always hungry to learn!**  
-💡 **Believer in learning by doing—because the best way to grow is to build!**
-
----
-
-### 🛠 Technologies
+### Full-Stack Developer | Building Digital Experiences
 
 <p>
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white"/>
-    
+  <a href="https://x.com/offsidengineer"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/-anuptiwari"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:anuptiwari050@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
+
+</div>
 
 ---
 
-### 🤝 Let's Connect!
+## 💫 Who Am I?
 
-📩 **Email:** [anuptiwari050@gmail.com](mailto:anuptiwari050@gmail.com)  
-🐦 **Twitter (X):** [@offsidengineer](https://x.com/offsidengineer)  
-🔗 **LinkedIn:** [Anup Tiwari](www.linkedin.com/in/-anuptiwari)  
+Second-year information technology student with a passion for turning ideas into reality through code. I don't just learn technologies, I build with them. Every project is an opportunity to solve real problems and push my boundaries.
 
-> 🌟 *"Every great developer you know started somewhere. Keep building, keep growing!"* 🚀
+*What drives me:* Creating products that people actually want to use, writing clean code, and constantly leveling up my skills.
+
+---
+
+## 🔥 What I'm Up To
+
+- Building full-stack applications that scale
+- Mastering modern web development with Next.js and TypeScript
+- Exploring cloud infrastructure and DevOps practices
+- Contributing to open-source when I can
+- Learning by shipping because that's where real growth happens
+
+---
+
+## ⚡ Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+      <br>Supabase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌟 What I Bring to the Table
+
+*Problem Solver* : I love breaking down complex challenges into elegant solutions  
+*Fast Learner* : New tech stack? Give me a weekend  
+*Team Player* : Best ideas come from collaboration  
+*Shipping Mindset* : Perfect is the enemy of done, I build, iterate, and improve
+
+---
+
+## 📚 Beyond Code
+
+When I'm not coding, you'll find me:
+- 🎯 Exploring new frameworks and tools
+- 📖 Reading tech blogs and documentation
+- 🤝 Networking with fellow developers
+- 💡 Brainstorming the next big idea
+
+---
+
+## 💬 Let's Connect
+
+I'm always open to collaborating on interesting projects, discussing tech, or just having a chat about development.
+
+📧 *Reach out:* anuptiwari050@gmail.com  
+🐦 *Follow me:* [@offsidetwt](https://x.com/offsidetwt)  
+💼 *Connect:* [LinkedIn](https://www.linkedin.com/in/-anuptiwari)
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=anuptiwari17&color=blueviolet&style=flat)
+  
+</div>
